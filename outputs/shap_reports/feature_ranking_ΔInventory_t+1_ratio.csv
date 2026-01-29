@@ -1,0 +1,14 @@
+,mean_abs_shap
+Inventory,0.00016462154128552258
+Accounts Payable,0.0001593128706680175
+ΔAP (t) / COGS,0.00011668107301320004
+ΔAR (t) / Revenue,0.000103697196189446
+ΔInventory (t) / COGS,9.575057274420549e-05
+Revenue,9.35685451941602e-05
+Operating Income (EBIT),8.176793616477805e-05
+Accounts Receivable,6.859955130232553e-05
+Inventory Turnover (times),6.621663323256459e-05
+Operating Margin,5.277683113112044e-05
+Current Ratio,5.139267281703287e-05
+Accounts Payable Days (AP Days),4.6170911399820875e-05
+Days Sales Outstanding (DSO),4.2230016615386164e-06

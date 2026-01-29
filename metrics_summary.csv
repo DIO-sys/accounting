@@ -1,0 +1,4 @@
+target,target_label,mae,rmse,r2
+ΔAR_t+1_ratio,Δ Accounts Receivable (next year) / Revenue,0.006420257515155237,0.008326845498548325,-0.1715908533826911
+ΔInventory_t+1_ratio,Δ Inventory (next year) / COGS,0.0020263495646485846,0.0025178318338780407,-2.544954871291613
+ΔAP_t+1_ratio,Δ Accounts Payable (next year) / COGS,0.004362258559650292,0.004469207702506083,-5.307046977099955
